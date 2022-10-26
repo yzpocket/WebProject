@@ -5,7 +5,7 @@ from mul import mul_func
 
 #함수 선언
 
-
+11
 #전역 변수부
 num1,num2,res=100,200,0
 
